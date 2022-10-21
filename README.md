@@ -25,3 +25,8 @@ order_num_total_ever_online : Müşterinin online platformda yaptığı toplam a
 customer_value_total_ever_offline : Müşterinin offline alışverişlerinde ödediği toplam ücret
 customer_value_total_ever_online : Müşterinin online alışverişlerinde ödediği toplam ücret
 interested_in_categories_12 : Müşterinin son 12 ayda alışveriş yaptığı kategorilerin listesi Veri Seti Hikayesi
+
+
+
+![Screenshot 2022-10-20 005050](https://user-images.githubusercontent.com/83352965/197084919-77b71e3e-922c-45fb-a220-7ec0cbc510c7.png)
+
