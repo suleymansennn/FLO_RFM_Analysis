@@ -9,7 +9,7 @@ Müşterilerin satına alma alışkanlıkları üzerinden gruplara ayrılması v
 CRM çalışmaları için birçok başlıkta veriye dayalı aksiyon alma imkanı sağlar.
 
 Peki bu gruplar nasıl oluşturulacak?
-RFM segmentasyonu Recency, Frequency, Monetary değerlerinin skorlanması ile müşterileri sınıflara/segmentlere ayıran bir
+RFM analizi Recency, Frequency, Monetary değerlerinin skorlanması ile müşterileri sınıflara/segmentlere ayıran bir
 tekniktir.
 
 Recency: Müşteri en son ne zaman alışveriş yaptı?
