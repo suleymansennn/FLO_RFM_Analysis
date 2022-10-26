@@ -1,6 +1,8 @@
 # FLO_RFM_Analysis
 ![1_HiwX6vul8c4PBEueq3yBMw](https://user-images.githubusercontent.com/83352965/197084781-39ac16ab-9a2f-40cf-ae50-7ce7cedc6d2f.png)
 
+https://www.kaggle.com/code/sleymanen/flo-rfm-analizi-ile-m-teri-segmentasyonu
+
 RFM Analizi ile Müşteri Segmentasyonu
 
 İş Problemi
