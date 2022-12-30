@@ -1,32 +1,25 @@
-# FLO_RFM_Analysis
+# FLO RFM Analysis
 ![1_HiwX6vul8c4PBEueq3yBMw](https://user-images.githubusercontent.com/83352965/197084781-39ac16ab-9a2f-40cf-ae50-7ce7cedc6d2f.png)
 
 https://www.kaggle.com/code/sleymanen/flo-rfm-analizi-ile-m-teri-segmentasyonu
+Business Problem:
 
-RFM Analizi ile Müşteri Segmentasyonu
+Segmenting the customers of FLO, an online shoe store, wants to make sense according to these segments. It will be
+designed accordingly and will be created according to this particular clustering. FLO, Wants to determine marketing
+strategies according to these segments.
 
-İş Problemi
-
-Online ayakkabı mağazası olan FLO müşterilerini segmentlere ayırıp bu segmentlere göre pazarlama stratejileri belirlemek istiyor. Buna yönelik olarak müşterilerin davranışları tanımlanacak ve bu davranışlardaki öbeklenmelere göre gruplar oluşturulacak.
-
-Veri Seti Hikayesi:
-
-Veri seti Flo’dan son alışverişlerini 2020 -2021 yıllarında OmniChannel(hem online hem offline alışverişyapan) olarak yapan müşterilerin geçmiş alışveriş davranışlarında nelde edilen bilgilerden oluşmaktadır.
-
-Değişkenler:
-
-master_id : Eşsiz Müşteri numarası
-order_channel : Alışveriş yapılan platforma ait hangi kanalın kullanıldığı (Android, ios, Desktop, Mobile)
-last_order_channel : En son alışveriş yapılan kanal
-firs_order_date : Müşterinin yaptığı ilk alışveriş tarihi
-last_order_date : Müşterinin yaptığı son alışveriş tarihi
-last_order_date_online : Müşterinin online platformda yaptığı son alışveriş tarihi
-last_order_date_offline: Müşterinin offline platformda yaptığı son alışveriş tarihi
-order_num_total_ever_offline : Müşterinin offline'da yaptığı toplam alışveriş sayısı
-order_num_total_ever_online : Müşterinin online platformda yaptığı toplam alışveriş sayısı
-customer_value_total_ever_offline : Müşterinin offline alışverişlerinde ödediği toplam ücret
-customer_value_total_ever_online : Müşterinin online alışverişlerinde ödediği toplam ücret
-interested_in_categories_12 : Müşterinin son 12 ayda alışveriş yaptığı kategorilerin listesi Veri Seti Hikayesi
+Features: 
+- master_id : Unique Customer Number
+- order_channel : Which channel of the shopping platform is used (Android, IOS, Desktop, Mobile)
+- last_order_channel : The channel where the most recent purchase was made
+- first_order_date : Date of the customer's first purchase
+- last_order_channel : Customer's previous shopping history
+- last_order_date_offline : The date of the last purchase made by the customer on the offline platform
+- order_num_total_ever_online : Total number of purchases made by the customer on the online platform
+- order_num_total_ever_offline : Total number of purchases made by the customer on the offline platform
+- customer_value_total_ever_offline : Total fees paid for the customer's offline purchases
+- customer_value_total_ever_online :  Total fees paid for the customer's online purchases
+- interested_in_categories_12 : List of categories the customer has shopped in the last 12 months
 
 
 
